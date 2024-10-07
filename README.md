@@ -14,8 +14,8 @@ Please refer to Google Drive. The dataset is encapsulated in `Data.zip`, which c
 4. `sklearn.decomposition` and `sklearn.metrics`
 5. `seaborn`
 6. `random`
-7. ˋPyTorch ˋ
-8. ˋtqdm ˋ
+7. `PyTorch`
+8. `tqdm`
 
 ## 4. Flowchart
 
