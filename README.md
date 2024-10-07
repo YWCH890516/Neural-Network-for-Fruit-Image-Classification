@@ -14,8 +14,8 @@ Please refer to Google Drive. The dataset is encapsulated in `Data.zip`, which c
 4. `sklearn.decomposition` and `sklearn.metrics`
 5. `seaborn`
 6. `random`
-7. ˋPyTorchˋ
-8. ˋtqdmˋ
+7. ˋPyTorch ˋ
+8. ˋtqdm ˋ
 
 ## 4. Flowchart
 
@@ -46,13 +46,3 @@ Please refer to Google Drive. The dataset is encapsulated in `Data.zip`, which c
          v
    Plot Decision Boundary
 
-## 4. Packages
-
-1. `pandas`
-2. `numpy`
-3. `matplotlib.pyplot`
-4. `sklearn.decomposition` and `sklearn.metrics`
-5. `seaborn`
-6. `random`
-7. ˋPyTorchˋ
-8. ˋtqdmˋ
